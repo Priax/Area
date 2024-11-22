@@ -1,0 +1,8 @@
+.vscode/
+.env
+area_frontend/area/app/app-debug.apk
+area_frontend/area/app/app-release.apk
+area_frontend/area/public/app-release.apk
+node_modules
+area_frontend/area/public/client.apk
+textfile.txt

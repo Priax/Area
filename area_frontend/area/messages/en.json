@@ -1,0 +1,114 @@
+{
+    "HomePage": {
+        "title": "Home",
+        "task_title": "Tasks running",
+        "task_desc": "There are",
+        "task_desc2": "task(s) running",
+        "services_title": "Services subscribed",
+        "services_desc": "You are subscribed to",
+        "services_desc2": "service(s)",
+        "download": "Download the client APK"
+    },
+    "ServicePage": {
+        "title": "Services",
+        "add": "Add a new",
+        "account": "account",
+        "Account": "Accounts",
+        "No accounts": "No accounts avaiable"
+    },
+    "ProfilePage": {
+        "title": "Profile",
+        "name": "Name",
+        "surname": "Surname",
+        "email": "Email address",
+        "password": "Password",
+        "phonenumber": "Phone Number",
+        "gender": "Gender",
+        "edit": "Edit",
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+    },
+    "TasksPage": {
+        "title": "Tasks",
+        "create": "Validate new task",
+        "table": "Task Table",
+        "help": "Help",
+        "helpmsg": "Here you set up a new task by drag and dropping a reaction node to the field and link it to the action node.<br/>You can choose a lot of services to do stuff on, you got to make sure that you activated the services in need of an account.",
+        "draganddrop": "Drag & Drop on the left field",
+        "titlenew": "New Reaction",
+        "service": "Select Service",
+        "noservice": "--Please choose a service--",
+        "reaction": "Select Reaction",
+        "noreaction": "--Please choose an action--",
+        "name": "Name",
+        "solo": "Task",
+        "notasks": "No Tasks Found",
+        "createmsg": "Create tasks at",
+        "createlink": "the create tasks page.",
+        "delete": "Delete",
+        "details": "Details"
+    },
+    "SelectAction": {
+        "type": "Type New Action Name...",
+        "service": "Select Service",
+        "noservice": "--Please choose a service--",
+        "action": "Select Action",
+        "noaction": "--Please choose an action--"
+    },
+    "SelectReaction": {
+        "title": "Reaction",
+        "type": "Type New Reaction Name...",
+        "service": "Select Service",
+        "noservice": "--Please choose a service--",
+        "reaction": "Select Reaction",
+        "noreaction": "--Please choose an action--"
+    },
+    "AdminPage": {
+        "title": "Administration"
+    },
+    "Login": {
+        "title": "Login",
+        "password": "Password",
+        "your_password": "your password",
+        "your_email": "your email",
+        "remember_me": "Remember me",
+        "not_register": "Not registered",
+        "signup": "Sign up",
+        "or": "or",
+        "login_google": "Continue with google"
+    },
+    "Signup": {
+        "title": "Signup",
+        "first_name": "First name",
+        "your_first_name": "your first name",
+        "last_name": "Last name",
+        "your_last_name": "your last name",
+        "date_of_birth": "Date of birth",
+        "gender": "Gender",
+        "man": "Man",
+        "woman": "Woman",
+        "other": "Thing",
+        "your_email": "your email",
+        "password": "Password",
+        "your_password": "your password",
+        "confirm_password": "Confirm password",
+        "confirm_your_password": "Confirm your password",
+        "registered": "Already have an account ?",
+        "login": "Login",
+        "or": "or",
+        "signup_google": "Signup with google"
+    },
+    "LocaleSwitcher": {
+        "label": "Change language",
+        "locale": "{locale, select, fr {🇫🇷 Français} en {🇺🇸 English} other {Unknown}}"
+    },
+    "NavMenu": {
+        "home": "Home",
+        "services": "Services",
+        "tasks": "Tasks",
+        "tasks-list": "Tasks List",
+        "profil": "Profile",
+        "admin": "Admin"
+    }
+}

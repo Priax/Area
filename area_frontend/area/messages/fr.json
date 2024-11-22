@@ -1,0 +1,114 @@
+{
+    "HomePage": {
+        "title": "Accueil",
+        "task_title": "Tâches en cours d'exécution",
+        "task_desc": "Il y a",
+        "task_desc2": "tâche(s) en cours d'exécution",
+        "services_title": "Services abonnés",
+        "services_desc": "Vous êtes abonné à",
+        "services_desc2": "service(s)",
+        "download": "Télécharger Android"
+    },
+    "ServicePage": {
+        "title": "Services",
+        "add": "Ajouter un compte",
+        "account": "",
+        "Account": "Comptes",
+        "No accounts": "Aucun compte trouvé"
+    },
+    "ProfilePage": {
+        "title": "Profil",
+        "name": "Prénom",
+        "surname": "Nom de famille",
+        "email": "Addresse email",
+        "password": "Mot de passe",
+        "phonenumber": "Numéro de téléphone",
+        "gender": "Genre",
+        "edit": "Modifier",
+        "male": "Homme",
+        "female": "Femme",
+        "other": "Autre"
+    },
+    "TasksPage": {
+        "title": "Tâches",
+        "create": "Valider une nouvelle tâche",
+        "table": "Table des tâches",
+        "help": "Aide",
+        "helpmsg": "Ici vous pouvez créer différentes tâches à l'aide d'API diverses, cliquez glissez une réaction sur l'écran de gauche et reliez les comme vous le souhaitez. Assurez vous de vous être connecté aux comptes nécessaires",
+        "draganddrop": "Cliquez glissez à gauche",
+        "titlenew": "Nouvelle réaction",
+        "service": "Choisir Service",
+        "noservice": "--Veuillez selectionner un service--",
+        "reaction": "Choisir Réaction",
+        "noreaction": "--Veuillez selectionner une réaction--",
+        "name": "Nom",
+        "solo": "Tâche",
+        "notasks": "Aucune tâche trouvée",
+        "createmsg": "Créez des tâches sur",
+        "createlink": "la page créer une tâche",
+        "delete": "Supprimer",
+        "details": "Détails"
+    },
+    "SelectAction": {
+        "type": "Nouvelle action...",
+        "service": "Choisir Service",
+        "noservice": "--Veuillez selectionner un service--",
+        "action": "Choisir Action",
+        "noaction": "--Veuillez selectionner une action--"
+    },
+    "SelectReaction": {
+        "title": "Réaction",
+        "type": "Nouvelle réaction...",
+        "service": "Choisir Service",
+        "noservice": "--Veuillez selectionner un service--",
+        "reaction": "Choisir Réaction",
+        "noreaction": "--Veuillez selectionner une réaction--"
+    },
+    "AdminPage": {
+        "title": "Administration"
+    },
+    "Login": {
+        "title": "Connection",
+        "password": "Mot de passe",
+        "your_password": "votre mot de passe",
+        "your_email": "votre email",
+        "remember_me": "Se souvenir de moi",
+        "not_register": "Pas de compte",
+        "signup": "S'inscrire",
+        "or": "ou",
+        "login_google": "Continuer avec google"
+    },
+    "Signup": {
+        "title": "Inscription",
+        "first_name": "Prénom",
+        "your_first_name": "votre prénom",
+        "last_name": "Nom",
+        "your_last_name": "votre nom",
+        "your_email": "votre email",
+        "date_of_birth": "Date de naissasnce",
+        "gender": "Genre",
+        "man": "Homme",
+        "woman": "Femme",
+        "other": "Autre",
+        "password": "Mot de passe",
+        "your_password": "votre mot de passe",
+        "confirm_password": "Confirmation mot de passe",
+        "confirm_your_password": "Confirmer votre mot de passe",
+        "registered": "Déjà un compte",
+        "login": "Connection",
+        "or": "ou",
+        "signup_google": "Inscription avec google"
+    },
+    "LocaleSwitcher": {
+        "label": "Changer de langue",
+        "locale": "{locale, select, fr {🇫🇷 Français} en {🇺🇸 English} other {Inconnue}}"
+    },
+    "NavMenu": {
+        "home": "Accueil",
+        "services": "Services",
+        "tasks": "Tâches",
+        "tasks-list": "Liste des tâches",
+        "profil": "Profil",
+        "admin": "Admin"
+    }
+}
