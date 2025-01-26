@@ -507,6 +507,7 @@ public class HandlingReaction extends Handler
                     MatchDetail matchDetail = leagueService.getMatchDetails(jsonValues.getString("match_id"));
                     maybeArgument = convertMatchDetailToMap(matchDetail);
                     arguments = maybeArgument;
+                    System.err.println(arguments);
                 } catch (Exception e) {
                     System.err.println("Failed to retrieve Match Details: " + e.getMessage());
                     e.printStackTrace();
